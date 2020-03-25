@@ -30,4 +30,6 @@ lein prod
 
 That should compile the ClojureScript code first, and then create the standalone jar which you can then run with `java -jar target/yacwat-simple.jar`
 
+Your website should be available at http://localhost:3000
+
 *Good luck, and have fun, you rascal Clojurians!* :beers:
